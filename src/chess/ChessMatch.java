@@ -1,8 +1,8 @@
 package chess;
 
-import boardgames.Board;
-import boardgames.Piece;
-import boardgames.Position;
+import boardgame.Board;
+import boardgame.Piece;
+import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
 
