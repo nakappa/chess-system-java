@@ -32,7 +32,7 @@ public class Program {
 			
 			catch (ChessException e) {
 				System.out.println(e.getMessage());
-				sc.hasNextLine();
+				sc.nextLine();
 			}
 			
 			catch (InputMismatchException e) {
